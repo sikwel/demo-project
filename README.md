@@ -25,8 +25,8 @@ Als Entwicklungsumgebung nutzen wir einen vordefinierten Docker-Container. In di
 1. Klone das Repo:
 
     ```bash
-    git clone https://github.com/dein-username/data-engineering-trainee-project.git
-    cd data-engineering-trainee-project
+    git clone https://github.com/sikwel/demo-project.git
+    cd demo-project
     ```
 
 2. Öffne das Projekt in Visual Studio Code – der Devcontainer regelt!
