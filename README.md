@@ -46,14 +46,14 @@ Unser Trainee-Projekt hat ein paar Aufgaben für dich vorgesehen:
 2. **Daten-Playtime mit Pandas:**
     - Lade Daten in ein Pandas-Datenframe und spiele ein wenig mit den Daten
     - Schau mal ob die Datentypen Sinn ergeben oder ob man noch etwas verbessern könnte.
-    - Lade die einzelnen Dateien aus Kaggle per Python in eine separate Tabelle.
+    - Lade die einzelnen Dateien aus Kaggle per Python in eine separate Tabelle in die PostgreSQL Datenbank.
 
 3. **PostgreSQL mit Docker:**
     - Wir haben dir einen PostgreSQL Server mit allem drum und dran in den DevContainer gelegt.
     - Die Verbindungsdaten findest du am Ende der Anleitung.
 
 4. **SQL-Fragen beantworten:**
-    - Wir haben ein paar SQL Fragen für dich vorbereitet. Schau mal was du uns zu den Daten sagen kannst die du dir eben runtergeladen hast ;) 
+    - Wir haben ein paar SQL Fragen für dich vorbereitet. Schau mal was du uns zu den Daten sagen kannst die du dir eben runtergeladen hast ;)
 
 5. **Python-Extras für Trainee-Helden:**
     - Halt den Code clean und kommentiere klug.
@@ -94,11 +94,11 @@ nicht gestrichen wurden, wie lang waren die Verspätungen? Auf welchen Strecken 
 
 ### Credentials
 
-Datenbank:  sikwel_db
-Benutzer:   sikwel
-Passwort:   secret#s1kw3lPW
-Port:       5434
-Host:       localhost oder host.docker.internal
+- Datenbank:  sikwel_db
+- Benutzer:   sikwel
+- Passwort:   secret#s1kw3lPW
+- Port:       5434
+- Host:       localhost oder host.docker.internal
 
 ### Nützliche Links
 
